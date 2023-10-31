@@ -1,1 +1,4 @@
 data/final_waverys.nc
+data/final_ERA5_u.nc
+data/final_ERA5_v.nc
+data/final_ERA5_hgt.nc
