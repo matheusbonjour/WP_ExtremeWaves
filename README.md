@@ -22,3 +22,18 @@ pandas
 xarray
 scikit-learn
 matplotlib
+
+## Uso
+Para executar a análise completa, inicie o mainWP.py da seguinte forma:
+
+python src/mainWP.py
+
+## Contribuindo
+Contribuições para este projeto são bem-vindas. Veja CONTRIBUTING.md para mais detalhes sobre como contribuir.
+
+## Autores
+Matheus Bonjour Laviola da Silva - Desenvolvimento inicial
+
+## Licença
+Este projeto é licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
+
