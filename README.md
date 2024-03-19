@@ -11,4 +11,4 @@ Os scripts estão organizados no diretório `src` e cada um possui uma funcional
 - `KneeLocWP.py`: Determina o número ótimo de clusters para o algoritmo K-Means usando o método do cotovelo.
 - `mainWP.py`: Script principal que coordena o processo de clusterização, chamando as funções necessárias dos outros scripts.
 - `PlotWP.py`: Gera visualizações dos padrões atmosféricos identificados, como mapas de clusters e possivelmente séries temporais dos eventos.
-- `ProcessWP.py`: Executa o pré-processamento dos
+- `ProcessWP.py`: 
