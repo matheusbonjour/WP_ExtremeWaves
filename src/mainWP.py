@@ -132,7 +132,7 @@ u1, v1, hgt1, cluster_fraction1, lat, lon, mclusters1, temp = camins_update(cent
                                                                         ds_u_sel,
                                                                         ds_v_sel,
                                                                         ds_hgt_sel,
-                                                                        method, 
+                                                                        method,
                                                                         scaler_type=None, 
                                                                         joint_scaling='True')
 
