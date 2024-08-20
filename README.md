@@ -1,6 +1,8 @@
 # Clusterização de Padrões Atmosféricos e Extremos de Onda
 
-Este repositório contém um conjunto de scripts Python desenvolvidos para identificar e analisar padrões atmosféricos associados a extremos de onda ao longo da costa sul e sudeste do Brasil. O trabalho baseia-se em técnicas de aprendizado de máquina para processar e analisar dados atmosféricos e oceânicos.
+Este repositório contém um conjunto de scripts Python desenvolvidos para identificar e analisar padrões atmosféricos associados a extremos de onda ao longo da costa sul e sudeste do Brasil. O trabalho baseia-se em técnicas de aprendizado de máquina para processar e analisar dados atmosféricos e oceânicos. 
+
+O Preprint do paper submetido associado a esse código se encontra em:  https://www.researchsquare.com/article/rs-4523660/v1
 
 ## Estrutura do Repositório
 
