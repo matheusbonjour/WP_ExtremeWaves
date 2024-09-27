@@ -36,6 +36,4 @@ Contribuições para este projeto são bem-vindas. Veja CONTRIBUTING.md para mai
 ## Autores
 Matheus Bonjour Laviola da Silva - Desenvolvimento inicial
 
-## Licença
-Este projeto é licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
 
