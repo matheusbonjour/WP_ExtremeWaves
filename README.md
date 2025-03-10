@@ -10,12 +10,12 @@ Os dados para teste estão dispoíveis em: https://drive.google.com/drive/folder
 
 Os scripts estão organizados no diretório `src` e cada um possui uma funcionalidade específica dentro do processo de clusterização:
 
-- `boia_domain_download.py`: Responsável por baixar dados de reanálise atmosférica e dados de ondas de boias específicas.
-- `GetDays.py`: Seleciona os dias com eventos extremos de ondas com base em um limiar predefinido (por exemplo, o percentil 99).
+- `boia_domain_disserta.py`: Seleciona e exporta as coordenadas do ponto selecionado e cria um mapa para região de estudo.
+- `GetDays.py`: Seleciona os dias associados a cada WP ou a cada 24-48-72 horas antes do extremo. 
 - `KneeLocWP.py`: Determina o número ótimo de clusters para o algoritmo K-Means usando o método do cotovelo.
 - `mainWP.py`: Script principal que coordena o processo de clusterização, chamando as funções necessárias dos outros scripts.
-- `PlotWP.py`: Gera visualizações dos padrões atmosféricos identificados, como mapas de clusters e possivelmente séries temporais dos eventos.
-- `ProcessWP.py`:
+- `PlotWP.py`: Gera visualizações dos padrões atmosféricos identificados, campo de onda extrema, histograma direcional no ponto selecionado, séries temporais dos eventos, distribuição dos WP. 
+- `ProcessWP.py`: Processa os dados meteoceanograficos de forma adequada para clusterização temporal e para entrada no algoritmo do K-Means.
 
 ## Instalação
 
