@@ -1,8 +1,10 @@
-# Clusterização de Padrões Atmosféricos e Extremos de Onda
+# Clusterização de Padrões Atmosféricos associados a Extremos de Onda
 
-Este repositório contém um conjunto de scripts Python desenvolvidos para identificar e analisar padrões atmosféricos associados a extremos de onda ao longo da costa sul e sudeste do Brasil. O trabalho baseia-se em técnicas de aprendizado de máquina para processar e analisar dados atmosféricos e oceânicos. 
+Este repositório contém um conjunto de scripts Python desenvolvidos para identificar e analisar padrões atmosféricos associados a extremos de onda ao longo da costa sul e sudeste do Brasil. O trabalho baseia-se no uso do K-Means para clusterização dos padrões atmosféricos associados a extremos de onda. 
 
-O Preprint do paper submetido associado a esse código se encontra em:  https://www.researchsquare.com/article/rs-4523660/v1
+O Artigo publicado associado a esse algortimo encontra-se em:  https://link.springer.com/article/10.1007/s11069-025-07166-7
+
+Os dados para teste estão dispoíveis em: https://drive.google.com/drive/folders/1hejo_AZWd4qkTQNJyEvG2YT9sy4-XVKm?hl=pt-br
 
 ## Estrutura do Repositório
 
@@ -17,7 +19,7 @@ Os scripts estão organizados no diretório `src` e cada um possui uma funcional
 
 ## Instalação
 
-Para instalar as dependências necessárias, execute o seguinte comando:
+Dependências necessárias:
 
 numpy
 pandas
@@ -31,9 +33,9 @@ Para executar a análise completa, inicie o mainWP.py da seguinte forma:
 python src/mainWP.py
 
 ## Contribuindo
-Contribuições para este projeto são bem-vindas. Veja CONTRIBUTING.md para mais detalhes sobre como contribuir.
+Contribuições são bem-vindas. 
 
 ## Autores
-Matheus Bonjour Laviola da Silva - Desenvolvimento inicial
+Matheus Bonjour Laviola da Silva - Desenvolvimento inicial (dissertação de mestrado)
 
 
