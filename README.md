@@ -26,6 +26,14 @@ pandas
 xarray
 scikit-learn
 matplotlib
+kneed
+pathlib
+cartopy
+geopandas
+cmocean
+scipy
+json 
+joblib
 
 ## Uso
 Para executar a análise completa, inicie o mainWP.py da seguinte forma:
